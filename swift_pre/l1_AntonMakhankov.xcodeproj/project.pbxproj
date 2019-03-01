@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		8E38CB332229F307004212F4 /* swift_pre */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swift_pre; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E38CB332229F307004212F4 /* l1_AntonMakhankov */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = l1_AntonMakhankov; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E38CB362229F307004212F4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		8E38CB342229F307004212F4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8E38CB332229F307004212F4 /* swift_pre */,
+				8E38CB332229F307004212F4 /* l1_AntonMakhankov */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8E38CB322229F307004212F4 /* swift_pre */ = {
+		8E38CB322229F307004212F4 /* l1_AntonMakhankov */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8E38CB3A2229F307004212F4 /* Build configuration list for PBXNativeTarget "swift_pre" */;
+			buildConfigurationList = 8E38CB3A2229F307004212F4 /* Build configuration list for PBXNativeTarget "l1_AntonMakhankov" */;
 			buildPhases = (
 				8E38CB2F2229F307004212F4 /* Sources */,
 				8E38CB302229F307004212F4 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = swift_pre;
+			name = l1_AntonMakhankov;
 			productName = swift_pre;
-			productReference = 8E38CB332229F307004212F4 /* swift_pre */;
+			productReference = 8E38CB332229F307004212F4 /* l1_AntonMakhankov */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8E38CB2E2229F307004212F4 /* Build configuration list for PBXProject "swift_pre" */;
+			buildConfigurationList = 8E38CB2E2229F307004212F4 /* Build configuration list for PBXProject "l1_AntonMakhankov" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8E38CB322229F307004212F4 /* swift_pre */,
+				8E38CB322229F307004212F4 /* l1_AntonMakhankov */,
 			);
 		};
 /* End PBXProject section */
@@ -262,7 +262,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8E38CB2E2229F307004212F4 /* Build configuration list for PBXProject "swift_pre" */ = {
+		8E38CB2E2229F307004212F4 /* Build configuration list for PBXProject "l1_AntonMakhankov" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8E38CB382229F307004212F4 /* Debug */,
@@ -271,7 +271,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8E38CB3A2229F307004212F4 /* Build configuration list for PBXNativeTarget "swift_pre" */ = {
+		8E38CB3A2229F307004212F4 /* Build configuration list for PBXNativeTarget "l1_AntonMakhankov" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8E38CB3B2229F307004212F4 /* Debug */,

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:swift_pre.xcodeproj">
+      location = "self:/Users/antonmakhankov/Documents/Swift/swift_pre/swift_pre/l1_AntonMakhankov.xcodeproj">
    </FileRef>
 </Workspace>
